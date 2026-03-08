@@ -1,9 +1,9 @@
-copy paste the codes into any editor
-make sure you have an externally managed environment so you can use pip install
-go to your terminal and install pygame and run main.py
-this is a 2 player game 
-no AI movement
-the score is displayed below healthbar (number of wins)
+Make sure you have an externally managed environment so you can use pip install.
+Go to your terminal and install pygame and run main.py.
+This is a 2 player game.
+This game doesn't have any AI movement.
+The score is displayed below healthbar (number of wins).
+
 Credits for assets used:
 images:
 [](https://www.vecteezy.com/vector-art/6635617-landscape-of-dry-cracked-ground-illustration)
