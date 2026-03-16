@@ -6,14 +6,13 @@ The score is displayed below healthbar (number of wins).
 
 Credits for assets used:
 images:
-[](https://www.vecteezy.com/vector-art/6635617-landscape-of-dry-cracked-ground-illustration)
-[](https://luizmelo.itch.io/fantasy-warrior)
-[](https://luizmelo.itch.io/evil-wizard-2)
+https://luizmelo.itch.io/fantasy-warrior
+https://luizmelo.itch.io/evil-wizard-2
 
 sounds:
-[](https://freesound.org/people/mrrap4food/sounds/493918/)
-[](https://freesound.org/people/Mateusz_Chenc/sounds/547600/)
-[](https://freesound.org/people/qubodup/sounds/442872/)
+https://freesound.org/people/mrrap4food/sounds/493918/
+https://freesound.org/people/Mateusz_Chenc/sounds/547600/
+https://freesound.org/people/qubodup/sounds/442872/
 
 font:
-[](https://fontmeme.com/fonts/turok-font/)
+https://fontmeme.com/fonts/turok-font/
